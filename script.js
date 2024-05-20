@@ -1,5 +1,5 @@
 function applyRandomColors() {
-    const colors = ['green', 'blue', 'red'];
+    const colors = ['blue', 'red', 'green'];
     const h3Elements = document.querySelectorAll('h3');
   
     h3Elements.forEach(h3 => {
